@@ -4,6 +4,13 @@
 
 ###
 
+<p align="center">  
+  <img src=".github/workflows/Banner Github.gif" alt="Banner GitHub"/>
+  
+</p>
+
+###
+
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&color=00FF66&pause=1000&width=435&lines=HEY+KNIGHT!!!%2C+This+is+my+GitHub+Page!!!" alt="Typing SVG" /></a>
 </div>
